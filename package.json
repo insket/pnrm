@@ -1,5 +1,5 @@
 {
-  "name": "pnrm",
+  "name": "pnrms",
   "version": "1.0.2",
   "description": "a library similar to nrm for switching source",
   "main": "index.js",
