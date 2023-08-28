@@ -1,6 +1,6 @@
 {
   "name": "pnrm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a library similar to nrm for switching source",
   "main": "index.js",
   "bin": {
@@ -18,7 +18,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "commander": "^11.0.0"
+    "chalk": "^4.0.0",
+    "commander": "^11.0.0",
+    "inquirer": "^8.0.0"
   }
 }
