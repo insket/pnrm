@@ -2,6 +2,7 @@
   "name": "pnrms",
   "version": "1.1.2",
   "description": "a library similar to nrm for switching source and create project cli",
+  "homepage": "https://github.com/insket/pnrms",
   "main": "index.js",
   "bin": {
     "pn": "./lib/index.js"
