@@ -1,6 +1,6 @@
 {
   "name": "pnrms",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a library similar to nrm for switching source and create project cli",
   "main": "index.js",
   "bin": {
