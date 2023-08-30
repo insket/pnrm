@@ -1,4 +1,4 @@
-# a library similar to nrm for switching source
+# a library similar to nrm for switching source and create project cli
 
 ```
 npm i pnrms -g
