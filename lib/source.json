@@ -23,5 +23,10 @@
         "home": "https://mirrors.cloud.tencent.com/npm/",
         "registry": "https://mirrors.cloud.tencent.com/npm/",
         "ping": "https://mirrors.cloud.tencent.com/npm"
+    },
+    "test": {
+        "home": "hhttp://localhost:3000",
+        "registry": "hhttp://localhost:3000",
+        "ping": "hhttp://localhost:3000"
     }
 }

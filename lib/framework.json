@@ -1,3 +1,4 @@
 {
-  "react+three": "direct:https://gitee.com/insket/three-react.git#master"
+  "react + three": "direct:https://gitee.com/insket/three-react.git#master",
+  "electron + ts": "direct:https://github.com/insket/electron_cli#master"
 }
